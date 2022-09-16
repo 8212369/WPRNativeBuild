@@ -1,0 +1,12 @@
+[submodule "Source/fna3d"]
+	path = Source/fna3d
+	url = https://github.com/8212369/FNA3D/
+[submodule "Source/faudio"]
+	path = Source/faudio
+	url = https://github.com/8212369/FAudio
+[submodule "Source/sdl"]
+	path = Source/sdl
+	url = https://github.com/8212369/SDL
+[submodule "Source/Theorafile"]
+	path = Source/Theorafile
+	url = https://github.com/FNA-XNA/Theorafile
