@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 3.0.0)
 project(WPRBuildNative)
 
+message("Starting")
+
 add_definitions(-DFAUDIO_DISABLE_DEBUGCONFIGURATION)
 set(CMAKE_LIBRARY_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/lib/${CMAKE_ANDROID_ARCH_ABI})
 
